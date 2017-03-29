@@ -3,7 +3,6 @@ import java.awt.Image;
 import java.io.*;
 
 public class Main {
-
 	public static void main(String[] args) throws IOException {
 		ImageIcon icon = new ImageIcon("src/images/icon.png");
 		Image logo = icon.getImage();

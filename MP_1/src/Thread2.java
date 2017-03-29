@@ -28,6 +28,7 @@ public class Thread2 extends Thread
 			
 			strNum= new PseudoArray(40);
 			stop();
+		
 		}
 			catch(Exception e)
 			{

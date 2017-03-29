@@ -32,5 +32,4 @@ public class SplashScreen extends JWindow {
     showSplash();
     
   }
-
 }

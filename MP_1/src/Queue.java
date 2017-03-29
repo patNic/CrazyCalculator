@@ -1,4 +1,5 @@
 public class Queue{
+	
 	PseudoArray p = new PseudoArray(50);
 	int index = 0;
 	public void enqueue(String k,int index){

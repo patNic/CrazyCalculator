@@ -238,7 +238,6 @@ public class Gui extends JPanel {
 			scroll[b].setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS) ;
 		}
 		
-		
 		scroll[0].setBounds(30, 60, 90, 435);
 		snapShot.add(scroll[0]);
 		
@@ -248,7 +247,7 @@ public class Gui extends JPanel {
 		scroll[2].setBounds(245, 60, 90, 435);
 		snapShot.add(scroll[2]);
 		
-		scroll[3].setBounds(380, 60, 130, 435);
+		scroll[3].setBounds(380, 60, 130, 435 );
 		snapShot.add(scroll[3]);
 		enter = new JButton("ENTER");
 		enter.setBounds(200,95,100,35);

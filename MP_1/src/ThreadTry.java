@@ -68,4 +68,5 @@ public class ThreadTry extends Thread
 			ret+=s.charAt(k);
 		return ret;
 	}
+	
 }

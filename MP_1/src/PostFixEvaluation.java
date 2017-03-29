@@ -96,3 +96,4 @@ public class PostFixEvaluation
 		Thread2.strNum.add(myStack.displayStack(""),b);
 	}
 }   
+
